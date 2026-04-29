@@ -26,7 +26,7 @@ Bogotá D.C., 2026
 
 ---
 
-### Estructura del repositorio\
+### Estructura del repositorio
 ### Datos
 Los datos utilizados en este proyecto provienen de las bases de datos 
 oficiales del Instituto Colombiano para la Evaluación de la Educación 
